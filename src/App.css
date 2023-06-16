@@ -1,0 +1,17 @@
+.home_page {
+  text-align: center;
+}
+.app_header {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin: 20px;
+  font-size: 2rem;
+}
+.btn {
+  border: none;
+  background-color: #194aa5;
+  color: #ffffff;
+  padding: 10px;
+  border-radius: 10px;
+}
